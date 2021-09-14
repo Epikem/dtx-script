@@ -1,0 +1,9 @@
+{
+  "name": "verysimpleweb",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "js-queue": "^2.0.2"
+  }
+}
